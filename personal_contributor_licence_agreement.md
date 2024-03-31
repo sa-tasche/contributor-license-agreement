@@ -61,14 +61,15 @@ This CLA is effective as of the latest signature date below.
 I agree with all the terms and conditions above by providing my details in **table-A** and submitting a pull request to the [contributor-license-agreement](https://github.com/aicore/contributor-license-agreement) repository. The agreement is effective as on the date provided against my name in **table-a** as soon as the pull request is raised against [contributor-license-agreement](https://github.com/aicore/contributor-license-agreement) repository. I affirm that the pull request is raised from my Github ID listed against my name in **table-a**.
  
 ## **Table-A**: Signed by
-| Name (“You”) | Github ID | Date |
-| --- | --- | --- |
-| `Sreejith A` | [sreejith19](https://github.com/sreejith19) | 18-June-2021 |
-| `Sujith V I` | [VI-Suji](https://github.com/VI-Suji) | 18-June-2021 |
-| `Tapan Manu`| [TapanManu](https://github.com/TapanManu) | 14-June-2021 |
-| `Arun Bose` | [abose](https://github.com/abose) |12-June-2021|
-| `Charly P Abraham` | [charlypa](https://github.com/charlypa) |13-June-2021|
-| `Atheena Renjith` | [7tena](https://github.com/7tena) | 18-June-2021 |
-| `Naren Hrithik J`| [Njay2000](https://github.com/Njay2000) |12-july-2021|
-| `Dhanesh P S`| [psdhanesh7](https://github.com/psdhanesh7) |10-September-2021|
-| `Sankar Majji`| [sankar236](https://github.com/sankar236) |24-October-2021|
+| Name (“You”)       | Github ID                                   | Date              |
+| ------------------ | ------------------------------------------- | ----------------- |
+| `Sreejith A`       | [sreejith19](https://github.com/sreejith19) | 18-June-2021      |
+| `Sujith V I`       | [VI-Suji](https://github.com/VI-Suji)       | 18-June-2021      |
+| `Tapan Manu`       | [TapanManu](https://github.com/TapanManu)   | 14-June-2021      |
+| `Arun Bose`        | [abose](https://github.com/abose)           | 12-June-2021      |
+| `Charly P Abraham` | [charlypa](https://github.com/charlypa)     | 13-June-2021      |
+| `Atheena Renjith`  | [7tena](https://github.com/7tena)           | 18-June-2021      |
+| `Naren Hrithik J`  | [Njay2000](https://github.com/Njay2000)     | 12-July-2021      |
+| `Dhanesh P S`      | [psdhanesh7](https://github.com/psdhanesh7) | 10-September-2021 |
+| `Sankar Majji`     | [sankar236](https://github.com/sankar236)   | 24-October-2021   |
+| `Sara Tasche`      | [sa-tasche](https://github.com/sa-tasche)   | 31 March-2024     |
